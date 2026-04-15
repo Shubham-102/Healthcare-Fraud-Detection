@@ -98,6 +98,3 @@ Healthcare-Fraud-Detection/
 
 ---
 
-## 👤 Author
-
-Your Name
